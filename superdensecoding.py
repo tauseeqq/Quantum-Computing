@@ -1,3 +1,4 @@
+// credit  youtube : https://www.youtube.com/watch?v=o2AuL6mxGiE&list=PLxP0p--aBHmIe--9rczWe4AZmw03e2bz0&index=15 //
 from qiskit import QuantumCircuit
 from qiskit import __all__
 from qiskit.visualization import plot_histogram
